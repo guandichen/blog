@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[83],{604:function(t,e,n){"use strict";n.r(e);var s=n(2),o=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[e("em",[e("strong",[this._v("正确食用荔枝而不易上火的方式")])])])])}),[],!1,null,null,null);e.default=o.exports}}]);

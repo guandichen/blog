@@ -1,0 +1,43 @@
+.page-title {
+  display: none;
+
+}
+
+.intro {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.icon-about {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.name {
+  margin-top: 80px;
+}
+
+.my-interest {
+  list-style: none;
+  display: flex;
+}
+
+.my-interest li img {
+  border-radius: 10px;
+}
+
+.my-interest li:nth-child(2) {
+  padding: 0 4px;
+
+}
+
+.my-interest li img {
+  /* height: 100%; */
+  /* width: auto;
+  height: 150px; */
+}
+
+.has-icon {
+  color: #40c11f;
+  margin-left: 30px;
+}
